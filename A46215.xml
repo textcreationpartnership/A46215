@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Impeachment of the Duke and Dutchess of Lauderdale, with their brother My Lord Hatton presented to His Majesty by the city of Edenbourgh : the matters of fact particularly relating to the town of Edenbourgh, humbly offered for Your Majesties information ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46215</idno>
+            <idno type="STC">Wing I99</idno>
+            <idno type="STC">ESTC R989</idno>
+            <idno type="EEBO-CITATION">12181775</idno>
+            <idno type="OCLC">ocm 12181775</idno>
+            <idno type="VID">55686</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46215)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55686)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 869:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Impeachment of the Duke and Dutchess of Lauderdale, with their brother My Lord Hatton presented to His Majesty by the city of Edenbourgh : the matters of fact particularly relating to the town of Edenbourgh, humbly offered for Your Majesties information ...</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lauderdale, John Maitland, --  Duke of, 1616-1682.</term>
+               <term>Lauderdale, Elizabeth Murray Maitland, --  Duchess of, d. 1697.</term>
+               <term>Lauderdale, Charles Maitland, --  Earl of, d. 1691.</term>
+               <term>Impeachments --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:55686:1" rendition="simple:additions"/>
+            <head>THE IMPEACHMENT OF THE Duke and Dutcheſs of Lauderdale, With their Brother My Lord Hatton. PRESENTED TO His MAJESTY BY THE City of Edenbourgh.</head>
+            <head type="sub">The Matters of Fact particularly relating to the Town of <hi>Edenbourgh,</hi> humbly offered for Your Majeſties Information. <hi>Before the Matter of Fact be ſpoke to, it is neceſſary that Your Majeſty be informed of one thing upon which this whole Affair hath moved.</hi>
+            </head>
+            <p>THe City of <hi>Edenbourgh</hi> had at ſeveral times given conſiderable Sums of Money to the Duke of <hi>Lauderdale,</hi> amounting to upward of Twelve Thouſand pounds <hi>Sterlin,</hi> and the Lord <hi>Hatton,</hi> Brother to the ſaid Duke, being inraged by that their former practice, and being arrived to great height and influence in the Admiſtration of Your Ma<g ref="char:EOLhyphen"/>jeſties Affairs in <hi>Scotland,</hi> did thereupon reſolve on a Deſign of getting Money for himſelf alſo from them, as will appear to your Majeſty by the following Nar<g ref="char:EOLhyphen"/>ration; but the Magiſtrates at that time, and ſuch others as had then the princi<g ref="char:EOLhyphen"/>pal Influence in the Adminiſtration of Affairs in that Town, being honeſt Men of good Fortunes, and not to be brought to comply with his Deſign, he bethought himſelf of all ways to vex them; and knowing they did much value the Proſperi<g ref="char:EOLhyphen"/>ty of the Town, he thought that the firſt means for promoting that his Deſign, was to have them threatned with removing Your Majeſties <hi>Publique Judicatures</hi> from that City to <hi>Sterlin,</hi> and perſwaded his Brother the Duke of <hi>Lauderdale</hi> to move Your Majeſty to that purpoſe; but being diſappointed of that project by Your Majeſties Royal Wiſdom, Your Majeſty looking upon it as if it were to declare to the World that You were jealous of ſo great a Part of that Your Ancient King<g ref="char:EOLhyphen"/>dom, he bethought himſelf of new ways to accompliſh his Deſign, for which he judged nothing ſo proper and effectual, as to diſturb them in the choice of their Magiſtrates and Town Counſel; and by all means poſſible to get ſome of his own chuſing, fit for his own ends, brought into the Adminiſtration of the Affairs of that City. In order to which, being impatient of any longer delay, he laid hold of what follows, being the firſt occaſion that offered, though a very frivolous one.</p>
+            <p>
+               <pb n="2" facs="tcp:55686:2"/>At <hi>Michaelmaſs</hi> 1674, The ſaid City of <hi>Edenbourgh</hi> being to go about the E<g ref="char:EOLhyphen"/>lection of their Magiſtrates for the enſuing year, there was procured a Letter from Your Majeſty to Your Privy Counſel, commanding them to forbid the Magiſtrates and Town Counſel to proceed in their Elections, but to continue the Magiſtrates that then were, till Your Majeſties further pleaſure ſhould be known; the rea<g ref="char:EOLhyphen"/>ſon ſuggeſted to Your Majeſty for it, was taken from this Circumſtance, That the Election ought to be made upon the Tueſday after <hi>Michaelmaſs,</hi> and (it happening this year that <hi>Michaelmaſs</hi> fell to be on a Tueſday) they were reſolved to proceed to their Elections upon <hi>Michaelmaſs</hi> day.</p>
+            <p>Though this was a very ſmall Matter, and upon very good and prudent Conſi<g ref="char:EOLhyphen"/>derations, reſolved, as will afterward appear, yet was it repreſented to Your Majeſty as a Factious Deſign, and an Innovation of dangerous Conſequence, tend<g ref="char:EOLhyphen"/>ing to create and maintain Faction in that City, contrary to Your Majeſties Ser<g ref="char:EOLhyphen"/>vice. Your Majeſties foreſaid Letter being intimated to the Magiſtrates and Town-Counſel, they did immediately give exact obedience to the ſame.</p>
+            <p>They did alſo repreſent to Your Majeſties Privy Council, the Rights that they had for chuſing their own Magiſtrates, which had been granted to them by many of Your Majeſties Royal Anceſtors, and confirmed by many Parliaments; by ver<g ref="char:EOLhyphen"/>tue of which they humbly conceived they ought to be ſuffered to proceed in their Elections.</p>
+            <p>They did alſo repreſent to Your Majeſties Privy Council, the Reaſons which had moved them to reſolve of making their Elections on the ſaid Tueſday, being <hi>Michael<g ref="char:EOLhyphen"/>maſs</hi> day, which in ſhort were, that by their Conſtitution they were obliged upon the Friday before <hi>Michaelmaſs</hi> to make the Liſt out of which the Magiſtrates are to be choſen; after the doing of which there is a Surceaſe and Vacation of all or<g ref="char:EOLhyphen"/>dinary Courts of <hi>Judicature</hi> within the Town, and the whole time is ſpent by the Common People and Tradeſmen of the Town, in Rioting and Drinking, until the Elections be finiſhed, which in this caſe would have been Twelve days; which they did in Prudence think they ought to ſhorten, not conceiving it contrary in the leaſt to the Eſtabliſhed Rules of their Election.</p>
+            <p n="2">2. On theſe things they did humbly crave Your Majeſties Privy Council would be pleaſed to repreſent to Your Majeſty, that thereby they might be freed from the ſuſpicion of any Factious Deſign, with which they were charged by the ſaid Letter.</p>
+            <p>This being, through the Influence of the Lord <hi>Hatton,</hi> refuſed by the Privy Council, they diſpatched a Gentleman to the Duke of <hi>Lauderdale,</hi> with Letters and Inſtructions full of Reſpect and Submiſſion to his Grace.</p>
+            <p>The Gentleman at his firſt Arrival found Duke <hi>Lauderdale</hi> very kind, and was made believe he ſhould be quickly diſpatched with Anſwers according to his Deſire; but ſome Delays having fallen in, the Duke of <hi>Lauderdale</hi> fell likewiſe upon thoughts of getting Money from the Town upon this occaſion, and therefore pre<g ref="char:EOLhyphen"/>tending ſtill more and more kindneſs to the ſaid Gentleman; he did firſt by ſome Inſinuations let fall to him his Expectation, and at laſt flatly asked him if he had not brought a heavy Purſe with him; which when he underſtood, he was not to expect, he changed his Method, and grew harſher; and having detained him Five or Six Weeks, he the ſaid Duke entered into Conſultation with his old Friend Sir <hi>Andrew Ramſey,</hi> how to order the Affair. By his Advice he did write a Let<g ref="char:EOLhyphen"/>ter and ſent Propoſals to the ſaid Town, That they ſhould give Bond and Se<g ref="char:EOLhyphen"/>curity, That the Townſmen ſhould live regularly as to all matters Eccleſiaſtical in the largeſt extent, as the ſame is determined by the late Acts of Parliament; and to keep the Town free of all ſorts of Tumults, either of Man or Woman: judg<g ref="char:EOLhyphen"/>ing that this was impoſſible for them to perform, and unfavourable to attempt, and that therefore it would oblige them to make offers of Money.</p>
+            <p>This Letter was all the Gentleman could obtain, and having gone back to <hi>Scotland</hi> and delivered it to the Magiſtrates, they were ſo far from being carried in the Deſign,
+<pb n="3" facs="tcp:55686:2"/>
+that they were glad of that oportunity to witneſs their Zeal to ſerve Your Majeſty; for they did very heartily comply with what was propoſed concerning the Bonds and Securities demanded; and immediately urged that Your Majeſties Officers and Law<g ref="char:EOLhyphen"/>yers would cauſe draw ſuch Bonds and Securities as was fit for the purpoſe; offering good Security for great ſums of Money for the performance. But this not being the thing truly intended, their ready Compliance with it, ſet them yet farther off from their deſired Settlement, and ſerved for no other intent then to cauſe the Lord <hi>Hatton</hi> to double his diligence to find out new means to moleſt them; to which end it was alledged by him that they had of old forfeited their Priviledges and Li<g ref="char:EOLhyphen"/>berties by ſome great miſdemeanour, and that therefore they had not right to chuſe their own Magiſtrates, for which he would needs have their Records ſearched; and accordingly they themſelves, with their Books and Records, were in a moſt unuſual manner brought often before him and his Friends, though they had not Authority for it, to the great Diſturbance and Annoyance of the Citizens, by being abundantly jealous of their Liberties, were with no ſmall care kept within the due Bounds of Moderation, by the Loyalty and Vigilancy of their Magi<g ref="char:EOLhyphen"/>ſtrates.</p>
+            <p>They the ſaid Magiſtrates, finding how they were uſed at home by the Lord <hi>Hatton,</hi> did again apply themſelves to the Duke of <hi>Lauderdale,</hi> both by pri<g ref="char:EOLhyphen"/>vate Letters to the Duke of <hi>Lauderdale</hi> and his Dutcheſs, from ſome of the moſt eminent of them, full of Aſſurances of particular Reſpect to their Graces, and by a publick Letter to him from the whole Town Council, offering Bond and Security to him in the terms propoſed by his fore-mentioned Letter. But this could not prevail, it being objected to them, from ſome frivolous things the Lord <hi>Hatton</hi> had ſcraped together out of their old Records, that they had loſt their Liberties, and that the right of chuſing their Magiſtrates did no more belong to them.</p>
+            <p>Then did they produce their Charters, and did convincingly clear all miſtakes, and evidently make appear that the right of chuſing their own Magiſtrates did remain to them undoubtedly and intirely.</p>
+            <p>All theſe things being cleared and open, they expected to be reſtored to the free exerciſe of their Election in their accuſtomed manner. They were ſtill kept off with Delays, until the Lord <hi>Hatton,</hi> in purſuance of his Deſign, fell a pra<g ref="char:EOLhyphen"/>ctiſing with ſome few of themſelves, who did undertake with his aſſiſtance, to get ſuch Elected as were fit for his ends; whereupon he writes to his Brother the Duke of <hi>Lauderdale</hi> to move Your Majeſty for a Letter, and accordingly the Letter was procured from Your Majeſty upon the Seventh of <hi>Auguſt</hi> 75; wherein Your Majeſty, after reciting Your former Orders in that Affair, did declare, that You were well informed of their Obedience to Your Commands, and of their dutiful Carriage in Your Concerns; and therefore ordained them, the next day after the Receipt of the Letter, to convene their whole Council, after their accuſtomed manner, and out of the Liſts already made, to Elect the Lord Provoſt, Baylies, and other Officers.</p>
+            <p>According to which Letter, they did the next day proceed to their Elections, but inſtead of thoſe whom the Lord <hi>Hatton</hi> expected they would have choſen, they did Elect ſome Men of good Fortunes and Integrity, not at all fit for his pur<g ref="char:EOLhyphen"/>poſe (theſe who had ingaged to him not being Men of that eſteem or influence as to be able to carry his Deſign as they had undertaken.)</p>
+            <p>The new Magiſtrates and Council, did immediately after their Election, acquaint Your Majeſty with their Procedure, and gave Your Majeſty great Acknowledge<g ref="char:EOLhyphen"/>ments and Aſſurances of their care of the Peace of the Town, and of Your Majeſties Service in all Matters, both Eccleſiaſtical and Civil.</p>
+            <p>The ſaid Lord <hi>Hatton</hi> being exceedingly inraged at this Act of theirs, did by Advice of Sir <hi>George Mackynge,</hi> now Your Majeſties Advocate, ſend a Letter to the Duke of <hi>Lauderdale,</hi> to which he procured Your Majeſties Hand upon the 25th of the ſame month of <hi>Auguſt,</hi> by which Your Majeſty ordered Your Privy
+<pb n="4" facs="tcp:55686:3"/>
+Council to intimate to the Magiſtrates and Town Council, that it was Your Royal Pleaſure that there ſhould be turned out of the Town Council and declared inca<g ref="char:EOLhyphen"/>pable of any Publique Truſt in the ſaid Town, Twelve of the moſt eminent of the ſame Men with whom Your Majeſty had expreſt Your Self ſo well pleaſed, and whoſe Actings Your Majeſty had approved, by Your Letter of the Seventh of the ſaid month.</p>
+            <p>This was accordingly executed by the Privy Council, without ever ſo much as calling before them the ſaid Perſons, though great Crimes were laid to their Charge, as being Factious Perſons, and miſ-repreſenting Your Majeſties Proceedings, with<g ref="char:EOLhyphen"/>out mentioning any particular Fact of theirs which could import any ſuch Crime. And though they be threatened by the ſaid Letter to be purſued for theſe great Crimes, and that Your Majeſties Advocate is commanded in the ſame to inſiſt againſt them, yet could they never obtain from Your Majeſties Privy Council that they ſhould be Tryed for theſe things, though by a Petition ſigned by the whole Twelve, they did repreſent the great Prejudice they ſuſtained both in their Reputation and Trade, by being kept under ſuch Threatnings; and therefore did humbly offer themſelves to the ſtricteſt and ſevereſt Tryal. To which Petition they never re<g ref="char:EOLhyphen"/>ceived any Anſwer.</p>
+            <p>To make appear to Your Majeſty that theſe things were done for private and ſiniſtrous Deſigns, and not upon account of the ill Effectedneſs or factious Di<g ref="char:EOLhyphen"/>ſpoſitions of the Men, as was pretended; Your Majeſty is humbly prayed to take notice of theſe particulars following:</p>
+            <p>Firſt, There are three of the moſt conſiderable of theſe very Perſons who had been charged with ſo great Crimes, admitted ſince that time, by bribing the Dutcheſs of <hi>Lauderdale,</hi> into a Truſt in Your Majeſties Affairs in <hi>Scotland,</hi> more eminent and conſiderable than any Truſt the Town of <hi>Edenbourgh</hi> can confer <hi>(viz.)</hi> The Paying off Your Majeſties Forces, and bringing in Your Majeſties Exciſe.</p>
+            <p>Secondly, No ſooner were theſe Twelve Men turned out of the Town Coun<g ref="char:EOLhyphen"/>cil, but after many great and eſſential Informalities (with the recital of which it is needleſs to trouble Your Majeſty) they Elected for Magiſtrates Men of no Re<g ref="char:EOLhyphen"/>putation, either for Parts, Eſtate, or Honeſty: And though theſe Bonds and Securities, which had been demanded from the others, and conſented to by them, was formerly pretended to be of great importance for Your Majeſties Service, yet they were not ſo much as once demanded, either by the Duke of <hi>Lauderdale</hi> or the Lord <hi>Hatton,</hi> from theſe Men who were now choſen.</p>
+            <p>Thirdly, Theſe new Magiſtrates were not long in their Seats, when off comes the Mask, and the true Deſign of getting Money appears. For by an Act of the Town Council there is about 5000 <hi>
+                  <abbr>l.</abbr> Sterlin</hi> diſpoſed on amongſt their nameleſs Friends, which were the Duke of <hi>Lauderdale,</hi> the Lord <hi>Hatton,</hi> and ſome other of their Friends. A great ſum to be got from that City, conſidering that the Duke of <hi>Lauderdale</hi> had got before that about 12000 <hi>
+                  <abbr>l.</abbr> Sterlin</hi> from them.</p>
+            <p>The Dutcheſs of <hi>Lauderdale,</hi> did alſo ſince that time endeavour to get more Mo<g ref="char:EOLhyphen"/>ney from them, and did with great Wrath threaten the Magiſtrates in plain terms, for not giving her a Preſent, notwithſtanding all the Good ſhe ſaid ſhe had done for them; reckoning the Favours Your Majeſty hath at any time been pleaſed to beſtow upon them, as done by her ſelf.</p>
+            <p>Thus hath that poor Town been abuſed, and doth now ly, having Magiſtrates without either Conduct or Courage, in a time when the Diſorders of that Nation doth require Perſons to be imployed there of eminent Fidelity and Capacity to ſerve Your Majeſty.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
